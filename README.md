@@ -1,5 +1,5 @@
 # Recommendation-algorithms-in-Python-
-A project about implementation of content based, memory &amp; model based collaborative and deep learning models for bulding Recommendationengine
+A project about implementation of content based, memory &amp; model based collaborative and deep learning models for bulding Recommendation engine
 
 Designed a content-based recommendation model based on movie genres using TfidfVectorizer function from scikit-learn and applied cosine similarity
 to calculate a numeric quantity that denotes the similarity between two movies.
